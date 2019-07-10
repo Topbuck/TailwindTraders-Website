@@ -1,5 +1,3 @@
-# Status Badge
-
 [![Build Status](https://dev.azure.com/abhilashissac0115/Tailwind%20Traders/_apis/build/status/Topbuck.TailwindTraders-Website%20(1)?branchName=master)](https://dev.azure.com/abhilashissac0115/Tailwind%20Traders/_build/latest?definitionId=44&branchName=master)
 
 # Tailwind Traders Website
