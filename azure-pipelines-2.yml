@@ -1,6 +1,6 @@
 variables:
   azureSubscription: 'abissac'
-  resourcegroup: 'TailwindTraderWeb'
+  resourcegroup: 'TailwindTraderWeb2'
   location: 'East US'
   ImageName: website
 
